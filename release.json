@@ -1,6 +1,6 @@
 {
-    "versionCode": 540,
-    "versionName": "v2.4",
+    "versionCode": 541,
+    "versionName": "v2.5",
     "changelog": ["update as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
     "downloadUrl": "https://github.com/hustleroleplayid/ROBI-TV-PRO/releases/download/V.2.4/ROBI.TV.PRO.PREMIUM.apk"
 }
